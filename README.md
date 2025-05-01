@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MXD-K1
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Python and programming foncepts
+- 📫 How to reach me: via my email hmdoonwork71@gmail.com
+- 😄 Pronouns: he/him
