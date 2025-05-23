@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MXD-K1
 - 👀 I’m interested in discovering different feilds in programming
-- 🌱 I’m currently learning Python and programming foncepts
+- 🌱 I’m currently learning Python and programming concepts 
 - 📫 How to reach me: via my email hmdoonwork71@gmail.com
 - 😄 Pronouns: he/him
