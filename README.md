@@ -6,7 +6,8 @@ I'm Mohammed Al-shuga'a (@MXD-K1) — a beginner developer who’s deeply curiou
 
 - 🌱 I'm currently learning Python and core programming concepts, and diving into different topics.
 
-[![My Skills](https://skillicons.dev/icons?i=python,pycharm,windows)](https://skillicons.dev)
+- I'm currently learning/knowing about:
+[![My Skills](https://skillicons.dev/icons?i=python,pycharm,windows,git, gitHub)](https://skillicons.dev)
 
 ## 📫 How to Reach Me
 
