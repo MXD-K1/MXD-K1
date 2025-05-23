@@ -10,8 +10,9 @@ I'm Mohammed Al-shuga'a (@MXD-K1) — a beginner developer who’s deeply curiou
 
 Feel free to reach me via my email *hmdoonwork71@gmail.com*.
 
-> I’m always open to collaboration, feedback, or just chatting about programming! 
-
+```
+I’m always open to collaboration, feedback, or just chatting about programming! 
+```
 
 
 
