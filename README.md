@@ -12,7 +12,7 @@ Feel free to reach me via my email *hmdoonwork71@gmail.com*.
 
 ---
 I’m always open to collaboration, feedback, or just chatting about programming! 
-
+---
 
 
 
