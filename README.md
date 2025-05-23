@@ -6,6 +6,9 @@ I'm Mohammed Al-shuga'a (@MXD-K1) — a beginner developer who’s deeply curiou
 
 - 🌱 I'm currently learning Python and core programming concepts, and diving into different topics.
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=python,pycharm)](https://skillicons.dev)
+
 ## 📫 How to Reach Me
 
 Feel free to reach me via my email *hmdoonwork71@gmail.com*.
