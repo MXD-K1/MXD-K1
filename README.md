@@ -6,8 +6,6 @@ I'm Mohammed Al-shuga'a — a beginner developer who’s deeply curious about ho
 
 - 🌱 I'm currently learning Python and core programming concepts, and diving into different topics.
 
-- I'm currently learning:
-
 [![My Skills](https://skillicons.dev/icons?i=python,pycharm,windows,git,github)](https://skillicons.dev)
 
 ## 📫 How to Reach Me
