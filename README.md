@@ -10,7 +10,7 @@ I'm Mohammed Al-shuga'a — a beginner developer who’s deeply curious about ho
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pycharm,windows,git,github" />
+    <img src="https://skillicons.dev/icons?i=python,pycharm,windows,git,github, pygame" />
   </a>
 </p>
 
