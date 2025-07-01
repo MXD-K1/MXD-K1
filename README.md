@@ -21,7 +21,7 @@ I'm Mohammed Al-shuga'a — a beginner developer who’s deeply curious about ho
 ## 👤 Profiles
 - [![Codewars](https://img.shields.io/badge/Codewars-red?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Mohammed%20Al-shugaa%20)
 
-- [![roadmap.sh](https://img.shields.io/badge/Roadmap.sh-My%20Learning%20Path-blue-logo=roadmap.sh)](roadmap.sh/u/mxd)
+- [![roadmap.sh](https://img.shields.io/badge/Roadmap.sh-My%20Learning%20Path-blue-logo=github)](roadmap.sh/u/mxd)
 
 ## 📫 How to Reach Me
 
