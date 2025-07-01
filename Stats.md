@@ -4,4 +4,4 @@
 
 [![roadmap.sh](https://roadmap.sh/card/tall/67e009bb83420316601aa195?variant=dark&roadmaps=python%2Cdatastructures-and-algorithms%2Ccpp%2Cgit-github)](https://roadmap.sh)
 
-[codewars](https://www.codewars.com/users/Mohammed%20Al-shugaa%20/badges/large)
+[![Codewars](https://www.codewars.com/users/Mohammed%20Al-shuga%27a/badges/large)](https://www.codewars.com/users/Mohammed%20Al-shuga%27a)
