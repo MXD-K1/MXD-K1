@@ -6,9 +6,7 @@ I'm Mohammed Al-shuga'a — a beginner developer who’s deeply curious about ho
 
 - 🌱 I'm currently learning Python and core programming concepts, and diving into different topics.
 
-> Got any ideas? I'm all ears!
-
-
+- Tools I know about:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,7 +25,8 @@ I'm Mohammed Al-shuga'a — a beginner developer who’s deeply curious about ho
 
 Feel free to reach me via my email *hmdoonwork71@gmail.com*.
 
-> I’m always open to collaboration, feedback, or just chatting about programming! 
+> I’m always open to collaboration, feedback, or just chatting about programming!
+> Got any ideas? I'm all ears!
 
 
 
