@@ -6,7 +6,6 @@ I'm Mohammed Al-shuga'a — a beginner developer who’s deeply curious about ho
 
 - 🌱 I'm currently learning Python and core programming concepts, and diving into different topics.
 
-- Tools I know about:
 
 <p align="center">
   <a href="https://skillicons.dev">
