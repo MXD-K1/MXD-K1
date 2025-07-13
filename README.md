@@ -25,6 +25,7 @@ I'm Mohammed Al-shuga'a — a beginner developer who’s deeply curious about ho
 Feel free to reach me via my email *hmdoonwork71@gmail.com*.
 
 > I’m always open to collaboration, feedback, or just chatting about programming!
+
 > Got any ideas? I'm all ears!
 
 
