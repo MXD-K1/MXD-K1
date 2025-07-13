@@ -6,6 +6,4 @@
 
 [![Codewars](https://www.codewars.com/users/Mohammed%20Al-shugaa%20/badges/large)](https://www.codewars.com/users/Mohammed%20Al-shugaa%20)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-</picture>
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
