@@ -6,4 +6,4 @@
 
 [![Codewars](https://www.codewars.com/users/Mohammed%20Al-shugaa%20/badges/large)](https://www.codewars.com/users/Mohammed%20Al-shugaa%20)
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) -->
