@@ -5,3 +5,9 @@
 [![roadmap.sh](https://roadmap.sh/card/tall/67e009bb83420316601aa195?variant=dark&roadmaps=python%2Cdatastructures-and-algorithms%2Ccpp%2Cgit-github)](https://roadmap.sh)
 
 [![Codewars](https://www.codewars.com/users/Mohammed%20Al-shugaa%20/badges/large)](https://www.codewars.com/users/Mohammed%20Al-shugaa%20)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
