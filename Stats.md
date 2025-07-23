@@ -6,6 +6,8 @@
 
 [![Codewars](https://www.codewars.com/users/Mohammed%20Al-shugaa%20/badges/large)](https://www.codewars.com/users/Mohammed%20Al-shugaa%20)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MXD-K1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MXD-K1&theme=dark)](https://git.io/streak-stats)
 
 <!-- ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) -->
+
+![snake gif](https://github.com/MXD-K1/MXD-K1/blob/output/github-snake-dark.svg)
