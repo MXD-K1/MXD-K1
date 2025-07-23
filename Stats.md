@@ -10,4 +10,4 @@
 
 <!-- ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) -->
 
-![snake gif](https://github.com/MXD-K1/MXD-K1/blob/output/github-snake-dark.svg)
+<!-- ![snake gif](https://github.com/MXD-K1/MXD-K1/blob/output/github-snake-dark.svg) -->
