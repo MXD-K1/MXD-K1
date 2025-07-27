@@ -13,6 +13,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          COMMIT_MSG: '⚡ Update activity file with recent GitHub activity by Github Actions.'
+          TARGET_FILE: 'Stats.md'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
