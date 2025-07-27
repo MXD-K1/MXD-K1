@@ -8,6 +8,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MXD-K1&theme=dark)](https://git.io/streak-stats)
 
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!-- ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) -->
 
 <!-- ![snake gif](https://github.com/MXD-K1/MXD-K1/blob/output/github-snake-dark.svg) -->
