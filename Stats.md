@@ -10,7 +10,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46498](https://github.com/microsoft/vcpkg/issues/46498#issuecomment-3092477797) in [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+1. 🚀 Published release [v0.1.0](https://github.com/MXD-K1/Zleda-like-Game/releases/tag/v0.1.0) in [MXD-K1/Zleda-like-Game](https://github.com/MXD-K1/Zleda-like-Game)
 2. 🔒 Closed issue [#46498](https://github.com/microsoft/vcpkg/issues/46498) in [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
 3. ❗ Opened issue [#46498](https://github.com/microsoft/vcpkg/issues/46498) in [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
 <!--END_SECTION:activity-->
