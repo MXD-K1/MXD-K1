@@ -10,8 +10,8 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/MXD-K1/Zleda-like-Game/releases/tag/v0.1.0) in [MXD-K1/Zleda-like-Game](https://github.com/MXD-K1/Zleda-like-Game)
-2. 🔒 Closed issue [#46498](https://github.com/microsoft/vcpkg/issues/46498) in [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+1. 🎉 Merged PR [#1](https://github.com/MXD-K1/MXD-K1.github.io/pull/1) in [MXD-K1/MXD-K1.github.io](https://github.com/MXD-K1/MXD-K1.github.io)
+2. 💪 Opened PR [#1](https://github.com/MXD-K1/MXD-K1.github.io/pull/1) in [MXD-K1/MXD-K1.github.io](https://github.com/MXD-K1/MXD-K1.github.io)
 3. ❗ Opened issue [#46498](https://github.com/microsoft/vcpkg/issues/46498) in [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
 <!--END_SECTION:activity-->
 
