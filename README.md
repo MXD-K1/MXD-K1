@@ -1,6 +1,6 @@
-# 👋 Hi there!
+p# 👋 Hi there!
 
-I'm Mohammed Al-shuga'a — a beginner developer who’s deeply curious about how things work under the hood. I'm not an experienced or highly skilled developer yet, but I’m passionate, persistent, and always eager to learn and improve.
+I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how things work under the hood. I'm not an experienced or highly skilled developer yet, but I’m passionate, persistent, and always eager to learn and improve.
 
 - 👀 I'm interested in exploring different areas of programming. 
 
