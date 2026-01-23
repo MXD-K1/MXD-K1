@@ -10,9 +10,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MXD-K1/Zleda-like-Game/pull/1) in [MXD-K1/Zleda-like-Game](https://github.com/MXD-K1/Zleda-like-Game)
-2. 💪 Opened PR [#1](https://github.com/MXD-K1/Zleda-like-Game/pull/1) in [MXD-K1/Zleda-like-Game](https://github.com/MXD-K1/Zleda-like-Game)
-3. 🎉 Merged PR [#1](https://github.com/MXD-K1/MXD-K1.github.io/pull/1) in [MXD-K1/MXD-K1.github.io](https://github.com/MXD-K1/MXD-K1.github.io)
+1. 🎉 Merged PR [#1](https://github.com/MXD-K1/LuaMoon/pull/1) in [MXD-K1/LuaMoon](https://github.com/MXD-K1/LuaMoon)
+2. 💪 Opened PR [#1](https://github.com/MXD-K1/LuaMoon/pull/1) in [MXD-K1/LuaMoon](https://github.com/MXD-K1/LuaMoon)
+3. 🎉 Merged PR [#1](https://github.com/MXD-K1/Zleda-like-Game/pull/1) in [MXD-K1/Zleda-like-Game](https://github.com/MXD-K1/Zleda-like-Game)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
