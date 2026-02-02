@@ -22,7 +22,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 ## Stats
 
-[![GitHub Streak](https://github-streak-xi.vercel.app?user=MXD-K1-1194&theme=cyber-streakglow&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MXD-K1)](https://git.io/streak-stats)
 
 ## 📫 How to Reach Me
 
