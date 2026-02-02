@@ -20,6 +20,10 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 - [![roadmap.sh](https://img.shields.io/badge/Roadmap.sh-My%20Learning%20Path-blue?logo=github)](https://roadmap.sh/u/mxd)
 
+## Stats
+
+[![GitHub Streak](https://github-streak-xi.vercel.app?user=MXD-K1-1194&theme=cyber-streakglow&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
+
 ## 📫 How to Reach Me
 
 Feel free to reach me via my email *hmdoonwork71@gmail.com*.
@@ -27,7 +31,3 @@ Feel free to reach me via my email *hmdoonwork71@gmail.com*.
 > I’m always open to collaboration, feedback, or just chatting about programming!
 
 > Got any ideas? I'm all ears!
-
-
-
-
