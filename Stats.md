@@ -10,8 +10,8 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MXD-K1/LuaMoon/pull/1) in [MXD-K1/LuaMoon](https://github.com/MXD-K1/LuaMoon)
-2. 💪 Opened PR [#1](https://github.com/MXD-K1/LuaMoon/pull/1) in [MXD-K1/LuaMoon](https://github.com/MXD-K1/LuaMoon)
+1. 🎉 Merged PR [#2](https://github.com/MXD-K1/LuaMoon/pull/2) in [MXD-K1/LuaMoon](https://github.com/MXD-K1/LuaMoon)
+2. 💪 Opened PR [#2](https://github.com/MXD-K1/LuaMoon/pull/2) in [MXD-K1/LuaMoon](https://github.com/MXD-K1/LuaMoon)
 3. 🎉 Merged PR [#1](https://github.com/MXD-K1/Zleda-like-Game/pull/1) in [MXD-K1/Zleda-like-Game](https://github.com/MXD-K1/Zleda-like-Game)
 <!--END_SECTION:activity-->
 
