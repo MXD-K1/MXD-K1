@@ -22,7 +22,30 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MXD-K1)](https://git.io/streak-stats)
+-----
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MXD-K1&theme=dark)](https://git.io/streak-stats)
+
+-----
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MXD-K1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+-----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MXD-K1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+-----
+
+[![roadmap.sh](https://roadmap.sh/card/tall/67e009bb83420316601aa195?variant=dark&roadmaps=python%2Cdatastructures-and-algorithms%2Ccpp%2Cgit-github)](https://roadmap.sh)
+
+[![Codewars](https://www.codewars.com/users/Mohammed%20Al-shugaa%20/badges/large)](https://www.codewars.com/users/Mohammed%20Al-shugaa%20)
+
+------
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+------
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
@@ -95,6 +118,8 @@ SVG                      1 repo              ██░░░░░░░░░�
 
  Last Updated on 14/02/2026 04:37:29 UTC
 <!--END_SECTION:waka-->
+
+-------
 
 ## 📫 How to Reach Me
 
