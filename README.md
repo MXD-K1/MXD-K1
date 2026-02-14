@@ -24,6 +24,9 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MXD-K1)](https://git.io/streak-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📫 How to Reach Me
 
 Feel free to reach me via my email *hmdoonwork71@gmail.com*.
