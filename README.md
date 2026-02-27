@@ -50,13 +50,13 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-197-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 122.2 kB Used in GitHub's Storage 
+> 📦 122.3 kB Used in GitHub's Storage 
  > 
 > 🏆 40 Contributions in the Year 2026
  > 
@@ -93,15 +93,15 @@ Sunday                   239 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-Python                   6 hrs 38 mins       ██████████████░░░░░░░░░░░   57.69 % 
-Kotlin                   1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-XML                      1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-TOML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Python                   9 hrs 19 mins       █████████████████░░░░░░░░   69.51 % 
+XML                      1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Kotlin                   1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+TOML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 34 mins       ████████████████░░░░░░░░░   65.80 % 
-Android Studio           3 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   34.20 % 
+PyCharm                  10 hrs 18 mins      ███████████████████░░░░░░   76.92 % 
+Android Studio           3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +120,7 @@ SVG                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2026 04:48:12 UTC
+ Last Updated on 27/02/2026 04:43:35 UTC
 <!--END_SECTION:waka-->
 
 -------
