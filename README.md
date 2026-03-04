@@ -50,7 +50,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,7 +58,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 > 📦 122.4 kB Used in GitHub's Storage 
  > 
-> 🏆 49 Contributions in the Year 2026
+> 🏆 50 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,15 +93,15 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-Python                   15 hrs 22 mins      ██████████████████████░░░   86.37 % 
-Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-textmate                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Python                   11 hrs 40 mins      ██████████████████░░░░░░░   72.71 % 
+XML                      1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Kotlin                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-PyCharm                  17 hrs 35 mins      █████████████████████████   98.89 % 
-Android Studio           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+PyCharm                  13 hrs 45 mins      █████████████████████░░░░   85.72 % 
+Android Studio           2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +120,7 @@ SVG                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2026 04:43:36 UTC
+ Last Updated on 04/03/2026 04:27:41 UTC
 <!--END_SECTION:waka-->
 
 -------
