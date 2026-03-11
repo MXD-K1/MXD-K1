@@ -50,7 +50,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -93,14 +93,14 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-Kotlin                   6 hrs 18 mins       ████████████████░░░░░░░░░   65.57 % 
-XML                      2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-TOML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Java                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Kotlin                   5 hrs 47 mins       ███████████████████░░░░░░   76.84 % 
+XML                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+TOML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Java                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-Android Studio           9 hrs 37 mins       █████████████████████████   100.00 % 
+Android Studio           7 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +119,7 @@ SVG                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2026 04:29:18 UTC
+ Last Updated on 11/03/2026 04:29:38 UTC
 <!--END_SECTION:waka-->
 
 -------
