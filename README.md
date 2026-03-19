@@ -52,7 +52,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -115,7 +115,7 @@ SVG                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2026 04:53:11 UTC
+ Last Updated on 19/03/2026 04:51:33 UTC
 <!--END_SECTION:waka-->
 
 -------
