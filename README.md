@@ -93,10 +93,13 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   0 secs              ██████████████░░░░░░░░░░░   54.35 % 
+TOML                     0 secs              ██████████░░░░░░░░░░░░░░░   41.57 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +118,7 @@ SVG                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2026 04:51:14 UTC
+ Last Updated on 26/03/2026 05:02:54 UTC
 <!--END_SECTION:waka-->
 
 -------
