@@ -52,7 +52,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,13 +93,16 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-Kotlin                   0 secs              ██████████████░░░░░░░░░░░   54.35 % 
-TOML                     0 secs              ██████████░░░░░░░░░░░░░░░   41.57 % 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Kotlin                   33 mins             ███████████░░░░░░░░░░░░░░   42.91 % 
+Python                   30 mins             ██████████░░░░░░░░░░░░░░░   38.78 % 
+TOML                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-Android Studio           0 secs              █████████████████████████   100.00 % 
+Android Studio           46 mins             ███████████████░░░░░░░░░░   59.84 % 
+PyCharm                  30 mins             ██████████░░░░░░░░░░░░░░░   38.93 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +121,7 @@ SVG                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2026 05:20:09 UTC
+ Last Updated on 02/04/2026 04:59:28 UTC
 <!--END_SECTION:waka-->
 
 -------
