@@ -45,6 +45,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/Kneeless123/Mega_militia_THEminiPROJECT/pull/2) in [Kneeless123/Mega_militia_THEminiPROJECT](https://github.com/Kneeless123/Mega_militia_THEminiPROJECT)
 <!--END_SECTION:activity-->
 
 ------
