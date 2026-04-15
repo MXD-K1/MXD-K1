@@ -45,7 +45,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MXD-K1/Template/pull/1) in [MXD-K1/Template](https://github.com/MXD-K1/Template)
+1. 🎉 Merged PR [#2](https://github.com/MXD-K1/Template/pull/2) in [MXD-K1/Template](https://github.com/MXD-K1/Template)
 <!--END_SECTION:activity-->
 
 ------
