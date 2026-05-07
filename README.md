@@ -51,13 +51,13 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 188.2 kB Used in GitHub's Storage 
+> 📦 188.3 kB Used in GitHub's Storage 
  > 
 > 🏆 231 Contributions in the Year 2026
  > 
@@ -94,14 +94,14 @@ Sunday                   326 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-Python                   9 hrs 59 mins       ███████████████████░░░░░░   75.78 % 
-Markdown                 2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-textmate                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-TOML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-PythonStub               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Python                   8 hrs 30 mins       █████████████████████░░░░   84.14 % 
+Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+PythonStub               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+textmate                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+TOML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-PyCharm                  13 hrs 10 mins      █████████████████████████   100.00 % 
+PyCharm                  10 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +121,7 @@ SVG                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2026 05:53:17 UTC
+ Last Updated on 07/05/2026 05:57:44 UTC
 <!--END_SECTION:waka-->
 
 -------
