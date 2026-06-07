@@ -40,7 +40,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/MXD-K1/Naturonics/pull/3) in [MXD-K1/Naturonics](https://github.com/MXD-K1/Naturonics)
+1. 🚀 Published release [v0.1.1](https://github.com/MXD-K1/TaskTracker-cli/releases/tag/v0.1.1) in [MXD-K1/TaskTracker-cli](https://github.com/MXD-K1/TaskTracker-cli)
 <!--END_SECTION:activity-->
 
 ------
