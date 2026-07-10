@@ -123,6 +123,10 @@ JavaScript               2 repos             ███░░░░░░░░�
 
 -------
 
+[![My GitFut card](https://gitfut.com/MXD-K1.png)](https://gitfut.com/MXD-K1)
+
+-------
+
 ## 📫 How to Reach Me
 
 Feel free to reach me via my email *hmdoonwork71@gmail.com*.
