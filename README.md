@@ -40,7 +40,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1460](https://github.com/tandpfun/skill-icons/issues/1460) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+1. ❗ Opened issue [#87](https://github.com/codecrafters-io/cli/issues/87) in [codecrafters-io/cli](https://github.com/codecrafters-io/cli)
 <!--END_SECTION:activity-->
 
 ------
