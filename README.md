@@ -87,17 +87,17 @@ Sunday                   377 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        10 hrs 15 mins      ██████████████████░░░░░░░   71.96 % 
-C/C++                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-CMake                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+C                        9 hrs 32 mins       ███████████████████░░░░░░   74.44 % 
+C/C++                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+CMake                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-Visual Studio            7 hrs 37 mins       █████████████░░░░░░░░░░░░   53.43 % 
-CLion                    6 hrs 4 mins        ███████████░░░░░░░░░░░░░░   42.60 % 
-VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-PyCharm                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+CLion                    9 hrs 5 mins        ██████████████████░░░░░░░   70.97 % 
+Visual Studio            3 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+PyCharm                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 
 **I Mostly Code in Python** 
@@ -117,7 +117,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 05:47:09 UTC
+ Last Updated on 25/07/2026 05:41:02 UTC
 <!--END_SECTION:waka-->
 
 -------
