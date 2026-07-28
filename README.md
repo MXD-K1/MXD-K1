@@ -46,7 +46,9 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2035%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,47 +64,6 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                976 commits         ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-🌆 Daytime                724 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-🌃 Evening                1516 commits        ███████████░░░░░░░░░░░░░░   44.33 % 
-🌙 Night                  204 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   306 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Tuesday                  485 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Wednesday                336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Thursday                 754 commits         ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Friday                   464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Saturday                 696 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Sunday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Aden
-
-💬 Programming Languages: 
-C                        13 hrs 30 mins      ███████████████████░░░░░░   74.74 % 
-C/C++                    1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-CMake                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-
-🔥 Editors: 
-CLion                    14 hrs 22 mins      ████████████████████░░░░░   79.48 % 
-Visual Studio            3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-PyCharm                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -120,7 +81,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 06:25:45 UTC
+ Last Updated on 28/07/2026 05:43:52 UTC
 <!--END_SECTION:waka-->
 
 -------
