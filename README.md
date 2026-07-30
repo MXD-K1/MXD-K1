@@ -54,7 +54,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 **🐱 My GitHub Data** 
 
-> 📦 195.2 kB Used in GitHub's Storage 
+> 📦 195.3 kB Used in GitHub's Storage 
  > 
 > 🏆 279 Contributions in the Year 2026
  > 
@@ -64,24 +64,24 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                976 commits         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-🌆 Daytime                725 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-🌃 Evening                1516 commits        ███████████░░░░░░░░░░░░░░   44.31 % 
-🌙 Night                  204 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+🌞 Morning                1035 commits        ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+🌆 Daytime                725 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+🌃 Evening                1522 commits        ███████████░░░░░░░░░░░░░░   43.51 % 
+🌙 Night                  216 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   306 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Tuesday                  486 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Wednesday                336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Thursday                 754 commits         ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-Friday                   464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Saturday                 696 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Sunday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Monday                   306 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Tuesday                  486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Wednesday                342 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Thursday                 825 commits         ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Friday                   464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Saturday                 696 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Sunday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 ```
 
 
@@ -91,17 +91,17 @@ Sunday                   379 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        12 hrs 13 mins      ████████████████░░░░░░░░░   65.70 % 
-Makefile                 2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-C/C++                    2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Lua                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+C                        13 hrs 27 mins      ████████████████░░░░░░░░░   65.14 % 
+Makefile                 2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+C/C++                    1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Lua                      1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-CLion                    17 hrs 57 mins      ████████████████████████░   96.47 % 
-VS Code                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Visual Studio            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+CLion                    19 hrs 20 mins      ███████████████████████░░   93.64 % 
+VS Code                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Visual Studio            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -127,7 +127,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 05:48:29 UTC
+ Last Updated on 30/07/2026 05:37:13 UTC
 <!--END_SECTION:waka-->
 
 -------
