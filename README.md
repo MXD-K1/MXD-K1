@@ -46,7 +46,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
@@ -67,21 +67,21 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1141 commits        ████████░░░░░░░░░░░░░░░░░   30.21 % 
-🌆 Daytime                764 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-🌃 Evening                1642 commits        ███████████░░░░░░░░░░░░░░   43.47 % 
-🌙 Night                  230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+🌞 Morning                1141 commits        ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+🌆 Daytime                860 commits         ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+🌃 Evening                1653 commits        ███████████░░░░░░░░░░░░░░   42.56 % 
+🌙 Night                  230 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   306 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Tuesday                  486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Wednesday                342 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Thursday                 901 commits         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-Friday                   580 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Saturday                 783 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Sunday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Monday                   306 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Tuesday                  486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Wednesday                342 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Thursday                 901 commits         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Friday                   580 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Saturday                 783 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Sunday                   486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
 ```
 
 
@@ -91,15 +91,15 @@ Sunday                   379 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        19 hrs 21 mins      ███████████████████░░░░░░   77.82 % 
-Makefile                 2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Lua                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-C/C++                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+C                        20 hrs 32 mins      ████████████████████░░░░░   80.77 % 
+Makefile                 2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Lua                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+C/C++                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 17 mins      ██████████████░░░░░░░░░░░   57.44 % 
-CLion                    10 hrs 31 mins      ███████████░░░░░░░░░░░░░░   42.33 % 
+VS Code                  17 hrs 4 mins       █████████████████░░░░░░░░   67.12 % 
+CLion                    8 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.65 % 
 Visual Studio            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
@@ -127,7 +127,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 05:59:33 UTC
+ Last Updated on 03/08/2026 06:18:23 UTC
 <!--END_SECTION:waka-->
 
 -------
