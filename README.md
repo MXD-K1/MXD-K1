@@ -46,6 +46,10 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2016%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -60,6 +64,52 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1202 commits        ████████░░░░░░░░░░░░░░░░░   30.25 % 
+🌆 Daytime                876 commits         ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+🌃 Evening                1665 commits        ██████████░░░░░░░░░░░░░░░   41.91 % 
+🌙 Night                  230 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   311 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Tuesday                  486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Wednesday                362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Thursday                 909 commits         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Friday                   636 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Saturday                 783 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Sunday                   486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Aden
+
+💬 Programming Languages: 
+C                        7 hrs 55 mins       ███████████████████░░░░░░   74.36 % 
+Java                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Makefile                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Text                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+C/C++                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 23 mins       █████████████████░░░░░░░░   69.39 % 
+CLion                    2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+IntelliJ IDEA            51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -77,7 +127,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 04:52:37 UTC
+ Last Updated on 08/08/2026 04:10:19 UTC
 <!--END_SECTION:waka-->
 
 -------
