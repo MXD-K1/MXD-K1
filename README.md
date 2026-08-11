@@ -58,7 +58,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
  > 
 > 🏆 279 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
@@ -67,21 +67,21 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1212 commits        ████████░░░░░░░░░░░░░░░░░   30.32 % 
-🌆 Daytime                890 commits         ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-🌃 Evening                1665 commits        ██████████░░░░░░░░░░░░░░░   41.66 % 
-🌙 Night                  230 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+🌞 Morning                1249 commits        ████████░░░░░░░░░░░░░░░░░   30.73 % 
+🌆 Daytime                920 commits         ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+🌃 Evening                1665 commits        ██████████░░░░░░░░░░░░░░░   40.97 % 
+🌙 Night                  230 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   311 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Tuesday                  486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Wednesday                362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Thursday                 909 commits         ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-Friday                   636 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Saturday                 793 commits         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-Sunday                   500 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Monday                   374 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Tuesday                  490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Wednesday                362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Thursday                 909 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+Friday                   636 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Saturday                 793 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Sunday                   500 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 ```
 
 
@@ -91,16 +91,16 @@ Sunday                   500 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-Java                     51 mins             ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-Makefile                 49 mins             ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-Text                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-C/C++                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Java                     1 hr 32 mins        █████████████░░░░░░░░░░░░   50.48 % 
+Makefile                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Text                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+C                        18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+C/C++                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🔥 Editors: 
-CLion                    2 hrs 22 mins       ████████████████░░░░░░░░░   64.30 % 
-IntelliJ IDEA            51 mins             ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-VS Code                  27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+IntelliJ IDEA            1 hr 34 mins        █████████████░░░░░░░░░░░░   51.24 % 
+CLion                    1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   33.87 % 
+VS Code                  27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -126,7 +126,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 04:27:16 UTC
+ Last Updated on 11/08/2026 04:17:36 UTC
 <!--END_SECTION:waka-->
 
 -------
