@@ -54,7 +54,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 **🐱 My GitHub Data** 
 
-> 📦 195.5 kB Used in GitHub's Storage 
+> 📦 213.0 kB Used in GitHub's Storage 
  > 
 > 🏆 279 Contributions in the Year 2026
  > 
@@ -67,21 +67,21 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1354 commits        ████████░░░░░░░░░░░░░░░░░   31.87 % 
-🌆 Daytime                999 commits         ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-🌃 Evening                1666 commits        ██████████░░░░░░░░░░░░░░░   39.21 % 
-🌙 Night                  230 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+🌞 Morning                1361 commits        ████████░░░░░░░░░░░░░░░░░   31.89 % 
+🌆 Daytime                999 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+🌃 Evening                1678 commits        ██████████░░░░░░░░░░░░░░░   39.32 % 
+🌙 Night                  230 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   374 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Tuesday                  531 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Wednesday                505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Thursday                 909 commits         █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-Friday                   637 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Saturday                 793 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Sunday                   500 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Monday                   374 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Tuesday                  531 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Wednesday                505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Thursday                 909 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Friday                   637 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Saturday                 812 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Sunday                   500 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 ```
 
 
@@ -91,10 +91,10 @@ Sunday                   500 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-Java                     2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -106,8 +106,8 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ████████████░░░░░░░░░░░░░   48.00 % 
-C                        3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Python                   11 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
+C                        4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
@@ -120,7 +120,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 03:36:13 UTC
+ Last Updated on 16/08/2026 03:45:18 UTC
 <!--END_SECTION:waka-->
 
 -------
