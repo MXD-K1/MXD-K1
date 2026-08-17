@@ -67,21 +67,21 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1361 commits        ████████░░░░░░░░░░░░░░░░░   31.89 % 
-🌆 Daytime                999 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-🌃 Evening                1678 commits        ██████████░░░░░░░░░░░░░░░   39.32 % 
-🌙 Night                  230 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+🌞 Morning                1373 commits        ████████░░░░░░░░░░░░░░░░░   32.05 % 
+🌆 Daytime                1001 commits        ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+🌃 Evening                1680 commits        ██████████░░░░░░░░░░░░░░░   39.22 % 
+🌙 Night                  230 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   374 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Tuesday                  531 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Wednesday                505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Thursday                 909 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Friday                   637 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Saturday                 812 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Sunday                   500 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Monday                   374 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Tuesday                  531 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Wednesday                505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Thursday                 909 commits         █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+Friday                   637 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Saturday                 812 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Sunday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 ```
 
 
@@ -120,7 +120,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 03:45:18 UTC
+ Last Updated on 17/08/2026 03:47:12 UTC
 <!--END_SECTION:waka-->
 
 -------
