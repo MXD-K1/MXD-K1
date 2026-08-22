@@ -46,7 +46,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
@@ -54,7 +54,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 **🐱 My GitHub Data** 
 
-> 📦 213.0 kB Used in GitHub's Storage 
+> 📦 213.1 kB Used in GitHub's Storage 
  > 
 > 🏆 279 Contributions in the Year 2026
  > 
@@ -62,26 +62,26 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1390 commits        ████████░░░░░░░░░░░░░░░░░   31.88 % 
-🌆 Daytime                1001 commits        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-🌃 Evening                1734 commits        ██████████░░░░░░░░░░░░░░░   39.77 % 
-🌙 Night                  235 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+🌞 Morning                1398 commits        ████████░░░░░░░░░░░░░░░░░   31.99 % 
+🌆 Daytime                1001 commits        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+🌃 Evening                1736 commits        ██████████░░░░░░░░░░░░░░░   39.73 % 
+🌙 Night                  235 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   374 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Tuesday                  533 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Wednesday                524 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Thursday                 954 commits         █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Friday                   638 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Saturday                 821 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Sunday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Monday                   374 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Tuesday                  533 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Wednesday                525 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Thursday                 954 commits         █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Friday                   647 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Saturday                 821 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Sunday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 ```
 
 
@@ -91,15 +91,15 @@ Sunday                   516 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-JavaScript               53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-CSS                      38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-HTML                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-C                        30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-C/C                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+C                        3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.67 % 
+JavaScript               1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+CSS                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        ███████████████░░░░░░░░░░   58.38 % 
-CLion                    1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   41.62 % 
+CLion                    5 hrs 8 mins        ████████████████░░░░░░░░░   64.94 % 
+VS Code                  2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.06 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -111,11 +111,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
-C                        4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   11 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
+C                        5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
@@ -125,7 +125,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 03:48:18 UTC
+ Last Updated on 22/08/2026 03:39:51 UTC
 <!--END_SECTION:waka-->
 
 -------
