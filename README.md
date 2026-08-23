@@ -46,7 +46,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
@@ -54,7 +54,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 **🐱 My GitHub Data** 
 
-> 📦 213.1 kB Used in GitHub's Storage 
+> 📦 213.2 kB Used in GitHub's Storage 
  > 
 > 🏆 279 Contributions in the Year 2026
  > 
@@ -91,15 +91,15 @@ Sunday                   516 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.67 % 
-JavaScript               1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-CSS                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+C                        3 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.40 % 
+JavaScript               1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+CSS                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
 
 🔥 Editors: 
-CLion                    5 hrs 8 mins        ████████████████░░░░░░░░░   64.94 % 
-VS Code                  2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.06 % 
+CLion                    5 hrs 29 mins       █████████████████░░░░░░░░   66.38 % 
+VS Code                  2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.62 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,7 +125,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 03:39:51 UTC
+ Last Updated on 23/08/2026 03:47:28 UTC
 <!--END_SECTION:waka-->
 
 -------
