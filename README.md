@@ -91,16 +91,16 @@ Sunday                   516 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-C++                      1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Makefile                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-HTML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+C                        3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+C++                      1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Makefile                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+HTML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 
 🔥 Editors: 
-CLion                    8 hrs 56 mins       ███████████████████░░░░░░   74.15 % 
-VS Code                  2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-WebStorm                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+CLion                    9 hrs 3 mins        ███████████████████░░░░░░   74.38 % 
+VS Code                  2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+WebStorm                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 
@@ -127,7 +127,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 03:45:02 UTC
+ Last Updated on 26/08/2026 03:51:39 UTC
 <!--END_SECTION:waka-->
 
 -------
