@@ -46,11 +46,11 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -91,18 +91,18 @@ Sunday                   516 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        6 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.66 % 
-C/C++                    1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-C++                      1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Makefile                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+C                        6 hrs 25 mins       ███████████░░░░░░░░░░░░░░   45.80 % 
+C++                      1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+C/C++                    1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Makefile                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 🔥 Editors: 
-CLion                    14 hrs 15 mins      ████████████████████░░░░░   81.57 % 
-VS Code                  2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-WebStorm                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+CLion                    12 hrs 53 mins      ███████████████████████░░   91.97 % 
+VS Code                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+WebStorm                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -128,7 +128,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 13:41:04 UTC
+ Last Updated on 28/08/2026 14:52:07 UTC
 <!--END_SECTION:waka-->
 
 -------
