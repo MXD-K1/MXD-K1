@@ -91,18 +91,17 @@ Sunday                   516 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        6 hrs 25 mins       ███████████░░░░░░░░░░░░░░   45.80 % 
-C++                      1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-C/C++                    1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Makefile                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+C                        8 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.91 % 
+C/C++                    2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+C++                      1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Makefile                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔥 Editors: 
-CLion                    12 hrs 53 mins      ███████████████████████░░   91.97 % 
-VS Code                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-WebStorm                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+CLion                    15 hrs 50 mins      ████████████████████████░   97.30 % 
+WebStorm                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -128,7 +127,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 14:52:07 UTC
+ Last Updated on 29/08/2026 09:42:28 UTC
 <!--END_SECTION:waka-->
 
 -------
