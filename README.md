@@ -54,7 +54,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 **🐱 My GitHub Data** 
 
-> 📦 217.6 kB Used in GitHub's Storage 
+> 📦 217.7 kB Used in GitHub's Storage 
  > 
 > 🏆 279 Contributions in the Year 2026
  > 
@@ -67,9 +67,9 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1399 commits        ████████░░░░░░░░░░░░░░░░░   31.97 % 
+🌞 Morning                1399 commits        ████████░░░░░░░░░░░░░░░░░   31.96 % 
 🌆 Daytime                1001 commits        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-🌃 Evening                1741 commits        ██████████░░░░░░░░░░░░░░░   39.79 % 
+🌃 Evening                1742 commits        ██████████░░░░░░░░░░░░░░░   39.80 % 
 🌙 Night                  235 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -78,8 +78,8 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 Monday                   376 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 Tuesday                  534 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
 Wednesday                527 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Thursday                 954 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Friday                   647 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Thursday                 955 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Friday                   647 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
 Saturday                 822 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
 Sunday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 ```
@@ -91,18 +91,18 @@ Sunday                   516 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C++                      7 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.52 % 
-C                        6 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-C/C++                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Text                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+C++                      8 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   36.91 % 
+C                        6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+C/C++                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Markdown                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Makefile                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🔥 Editors: 
-CLion                    20 hrs 40 mins      ████████████████████████░   94.44 % 
-PyCharm                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+CLion                    23 hrs 9 mins       ████████████████████████░   95.01 % 
+PyCharm                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+VS Code                  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -128,7 +128,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 07:42:36 UTC
+ Last Updated on 04/09/2026 07:41:06 UTC
 <!--END_SECTION:waka-->
 
 -------
