@@ -46,7 +46,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
@@ -91,18 +91,18 @@ Sunday                   516 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C++                      9 hrs 7 mins        ████████████░░░░░░░░░░░░░   46.27 % 
-C                        3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Markdown                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Makefile                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Text                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+C++                      9 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.06 % 
+C                        6 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.71 % 
+Makefile                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-CLion                    18 hrs 30 mins      ███████████████████████░░   93.83 % 
-PyCharm                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+CLion                    20 hrs 58 mins      ████████████████████████░   94.37 % 
+PyCharm                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -128,7 +128,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 07:21:02 UTC
+ Last Updated on 06/09/2026 07:34:01 UTC
 <!--END_SECTION:waka-->
 
 -------
