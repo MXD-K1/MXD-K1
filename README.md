@@ -40,7 +40,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#87](https://github.com/codecrafters-io/cli/issues/87) in [codecrafters-io/cli](https://github.com/codecrafters-io/cli)
+1. 💪 Opened PR [#128](https://github.com/antirez/kilo/pull/128) in [antirez/kilo](https://github.com/antirez/kilo)
 <!--END_SECTION:activity-->
 
 ------
