@@ -46,7 +46,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
@@ -91,18 +91,17 @@ Sunday                   516 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C++                      9 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.06 % 
-C                        6 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.71 % 
-Makefile                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+C++                      9 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   39.21 % 
+C                        7 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.60 % 
+Makefile                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+C/C++                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-CLion                    20 hrs 58 mins      ████████████████████████░   94.37 % 
-PyCharm                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+CLion                    22 hrs 36 mins      ████████████████████████░   96.72 % 
+PyCharm                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -128,7 +127,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 07:34:01 UTC
+ Last Updated on 07/09/2026 07:51:33 UTC
 <!--END_SECTION:waka-->
 
 -------
