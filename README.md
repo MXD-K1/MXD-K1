@@ -50,13 +50,13 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 217.7 kB Used in GitHub's Storage 
  > 
-> 🏆 279 Contributions in the Year 2026
+> 🏆 280 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -91,16 +91,16 @@ Sunday                   516 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C++                      9 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   39.21 % 
-C                        7 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.60 % 
-Makefile                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-C/C++                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+C                        13 hrs 15 mins      █████████████░░░░░░░░░░░░   51.06 % 
+C++                      6 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+Markdown                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Makefile                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+C/C++                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-CLion                    22 hrs 36 mins      ████████████████████████░   96.72 % 
-PyCharm                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+CLion                    25 hrs 12 mins      ████████████████████████░   97.05 % 
+PyCharm                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -113,11 +113,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-C                        5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+C                        6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
@@ -127,7 +127,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 07:51:33 UTC
+ Last Updated on 08/09/2026 07:47:28 UTC
 <!--END_SECTION:waka-->
 
 -------
