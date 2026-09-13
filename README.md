@@ -50,7 +50,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
@@ -95,16 +95,15 @@ Sunday                   516 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        28 hrs 53 mins      ████████████████████░░░░░   79.45 % 
-C/C++                    4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Text                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Makefile                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+C                        26 hrs 11 mins      ████████████████████░░░░░   78.61 % 
+C/C++                    4 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Text                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+HTML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-CLion                    35 hrs 51 mins      █████████████████████████   98.59 % 
-WebStorm                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+CLion                    32 hrs 50 mins      █████████████████████████   98.56 % 
+WebStorm                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -131,7 +130,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 07:39:39 UTC
+ Last Updated on 13/09/2026 07:58:29 UTC
 <!--END_SECTION:waka-->
 
 -------
