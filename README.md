@@ -50,11 +50,11 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -95,16 +95,15 @@ Sunday                   516 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        26 hrs 11 mins      ████████████████████░░░░░   78.61 % 
-C/C++                    4 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Text                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-HTML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+C                        27 hrs 6 mins       ████████████████████░░░░░   79.61 % 
+C/C++                    4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+HTML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Text                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-CLion                    32 hrs 50 mins      █████████████████████████   98.56 % 
-WebStorm                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+CLion                    33 hrs 34 mins      █████████████████████████   98.60 % 
+WebStorm                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -130,7 +129,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 07:58:29 UTC
+ Last Updated on 14/09/2026 08:31:32 UTC
 <!--END_SECTION:waka-->
 
 -------
