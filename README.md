@@ -71,19 +71,19 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1404 commits        ████████░░░░░░░░░░░░░░░░░   32.03 % 
+🌞 Morning                1405 commits        ████████░░░░░░░░░░░░░░░░░   32.04 % 
 🌆 Daytime                1001 commits        ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-🌃 Evening                1744 commits        ██████████░░░░░░░░░░░░░░░   39.78 % 
+🌃 Evening                1744 commits        ██████████░░░░░░░░░░░░░░░   39.77 % 
 🌙 Night                  235 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   376 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Tuesday                  536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Wednesday                532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Thursday                 955 commits         █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Friday                   647 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Monday                   376 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Tuesday                  536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Wednesday                532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Thursday                 956 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Friday                   647 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
 Saturday                 822 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
 Sunday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 ```
@@ -95,15 +95,14 @@ Sunday                   516 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        23 hrs 3 mins       ████████████████████░░░░░   78.51 % 
-C/C++                    3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Markdown                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-HTML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Text                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+C                        20 hrs 35 mins      ████████████████████░░░░░   80.04 % 
+C/C++                    3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Markdown                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Makefile                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-CLion                    28 hrs 52 mins      █████████████████████████   98.37 % 
-WebStorm                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+CLion                    25 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -129,7 +128,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 08:16:07 UTC
+ Last Updated on 17/09/2026 08:21:29 UTC
 <!--END_SECTION:waka-->
 
 -------
