@@ -50,7 +50,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
@@ -71,9 +71,9 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1405 commits        ████████░░░░░░░░░░░░░░░░░   32.04 % 
-🌆 Daytime                1001 commits        ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-🌃 Evening                1744 commits        ██████████░░░░░░░░░░░░░░░   39.77 % 
+🌞 Morning                1405 commits        ████████░░░░░░░░░░░░░░░░░   32.03 % 
+🌆 Daytime                1001 commits        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+🌃 Evening                1745 commits        ██████████░░░░░░░░░░░░░░░   39.79 % 
 🌙 Night                  235 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -82,10 +82,10 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 Monday                   376 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 Tuesday                  536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 Wednesday                532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Thursday                 956 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Thursday                 957 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
 Friday                   647 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Saturday                 822 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Sunday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Saturday                 822 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Sunday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 ```
 
 
@@ -95,14 +95,15 @@ Sunday                   516 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        20 hrs 35 mins      ████████████████████░░░░░   80.04 % 
-C/C++                    3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Markdown                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Makefile                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+C                        21 hrs 49 mins      █████████████████░░░░░░░░   69.66 % 
+C/C++                    3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Python                   3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Markdown                 1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Text                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-CLion                    25 hrs 43 mins      █████████████████████████   100.00 % 
+CLion                    27 hrs 26 mins      ██████████████████████░░░   87.56 % 
+PyCharm                  3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -114,11 +115,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-C                        6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Python                   12 repos            ██████████░░░░░░░░░░░░░░░   41.38 % 
+C                        6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -128,7 +129,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 08:21:29 UTC
+ Last Updated on 18/09/2026 07:57:02 UTC
 <!--END_SECTION:waka-->
 
 -------
