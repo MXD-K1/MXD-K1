@@ -44,7 +44,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#128](https://github.com/antirez/kilo/pull/128) in [antirez/kilo](https://github.com/antirez/kilo)
+1. 🗣 Commented on [#1](https://github.com/NateTheGrappler/OliNat-Programming-Language/issues/1#issuecomment-5748266214) in [NateTheGrappler/OliNat-Programming-Language](https://github.com/NateTheGrappler/OliNat-Programming-Language)
 <!--END_SECTION:activity-->
 
 ------
