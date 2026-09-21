@@ -44,7 +44,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/NateTheGrappler/OliNat-Programming-Language/pull/11) in [NateTheGrappler/OliNat-Programming-Language](https://github.com/NateTheGrappler/OliNat-Programming-Language)
+1. 🎉 Merged PR [#11](https://github.com/NateTheGrappler/OliNat-Programming-Language/pull/11) in [NateTheGrappler/OliNat-Programming-Language](https://github.com/NateTheGrappler/OliNat-Programming-Language)
 <!--END_SECTION:activity-->
 
 ------
