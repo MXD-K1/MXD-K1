@@ -50,11 +50,11 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -71,21 +71,21 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1409 commits        ████████░░░░░░░░░░░░░░░░░   32.08 % 
-🌆 Daytime                1002 commits        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-🌃 Evening                1746 commits        ██████████░░░░░░░░░░░░░░░   39.75 % 
-🌙 Night                  235 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+🌞 Morning                1411 commits        ████████░░░░░░░░░░░░░░░░░   32.08 % 
+🌆 Daytime                1007 commits        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+🌃 Evening                1746 commits        ██████████░░░░░░░░░░░░░░░   39.69 % 
+🌙 Night                  235 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   377 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Tuesday                  537 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Wednesday                536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Thursday                 957 commits         █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Friday                   647 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Saturday                 822 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Sunday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Monday                   377 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Tuesday                  537 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Wednesday                541 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Thursday                 959 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Friday                   647 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Saturday                 822 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Sunday                   516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
 ```
 
 
@@ -95,15 +95,15 @@ Sunday                   516 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        9 hrs 51 mins       █████████████░░░░░░░░░░░░   53.38 % 
-Python                   3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-C/C++                    2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Markdown                 1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Text                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+C                        11 hrs 32 mins      █████████████░░░░░░░░░░░░   53.56 % 
+Python                   3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Markdown                 2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+C/C++                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Text                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 🔥 Editors: 
-CLion                    14 hrs 33 mins      ████████████████████░░░░░   78.87 % 
-PyCharm                  3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+CLion                    17 hrs 38 mins      ████████████████████░░░░░   81.90 % 
+PyCharm                  3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -129,7 +129,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 08:16:29 UTC
+ Last Updated on 24/09/2026 08:06:52 UTC
 <!--END_SECTION:waka-->
 
 -------
