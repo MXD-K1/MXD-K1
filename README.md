@@ -95,14 +95,14 @@ Sunday                   516 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        13 hrs 19 mins      ████████████████░░░░░░░░░   65.94 % 
-C/C++                    2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Markdown                 2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Makefile                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+C                        12 hrs 51 mins      █████████████████░░░░░░░░   66.11 % 
+C/C++                    2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Markdown                 2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Makefile                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-CLion                    20 hrs 12 mins      █████████████████████████   100.00 % 
+CLion                    19 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -128,7 +128,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 08:30:59 UTC
+ Last Updated on 26/09/2026 08:17:31 UTC
 <!--END_SECTION:waka-->
 
 -------
