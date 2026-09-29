@@ -50,7 +50,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
@@ -58,7 +58,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 **🐱 My GitHub Data** 
 
-> 📦 217.8 kB Used in GitHub's Storage 
+> 📦 217.9 kB Used in GitHub's Storage 
  > 
 > 🏆 286 Contributions in the Year 2026
  > 
@@ -95,14 +95,14 @@ Sunday                   518 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        11 hrs 14 mins      █████████████████░░░░░░░░   67.10 % 
-C/C++                    2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Makefile                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+C                        10 hrs 48 mins      █████████████████░░░░░░░░   67.61 % 
+C/C++                    2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Makefile                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-CLion                    16 hrs 45 mins      █████████████████████████   100.00 % 
+CLion                    15 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -128,7 +128,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 09:19:17 UTC
+ Last Updated on 29/09/2026 09:27:59 UTC
 <!--END_SECTION:waka-->
 
 -------
