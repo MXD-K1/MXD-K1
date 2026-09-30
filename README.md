@@ -54,7 +54,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -71,16 +71,16 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1411 commits        ████████░░░░░░░░░░░░░░░░░   32.04 % 
-🌆 Daytime                1008 commits        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-🌃 Evening                1750 commits        ██████████░░░░░░░░░░░░░░░   39.74 % 
-🌙 Night                  235 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+🌞 Morning                1411 commits        ████████░░░░░░░░░░░░░░░░░   32.03 % 
+🌆 Daytime                1008 commits        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+🌃 Evening                1751 commits        ██████████░░░░░░░░░░░░░░░   39.75 % 
+🌙 Night                  235 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   378 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Tuesday                  537 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Tuesday                  538 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 Wednesday                541 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
 Thursday                 961 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
 Friday                   647 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
@@ -95,14 +95,14 @@ Sunday                   518 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        10 hrs 48 mins      █████████████████░░░░░░░░   67.61 % 
-C/C++                    2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Makefile                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+C                        9 hrs 15 mins       █████████████████░░░░░░░░   67.23 % 
+C/C++                    2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Makefile                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-CLion                    15 hrs 59 mins      █████████████████████████   100.00 % 
+CLion                    13 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -128,7 +128,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 09:27:59 UTC
+ Last Updated on 30/09/2026 09:17:39 UTC
 <!--END_SECTION:waka-->
 
 -------
