@@ -9,7 +9,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pycharm,vscode,windows,git,github,md" />
+    <img src="https://skillicons.dev/icons?i=python,c,pycharm,clion,vscode,visualstudio,windows,git,github,md" />
   <!-- <a href="https://skills.syvixor.com">
     <img src="https://skills.syvixor.com/api/icons?i=pygame" />
   </a> -->
