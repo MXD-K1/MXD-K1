@@ -7,6 +7,9 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 - 🌱 I'm currently learning Python and core programming concepts, and diving into different topics.
 
 
+> [!NOTE]
+> To see my experiments check: [MXD-K1-Forks](https://github.com/MXD-K1-Forks)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,pycharm,clion,vscode,visualstudio,windows,git,github,md" />
