@@ -53,7 +53,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
@@ -69,26 +69,26 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
  > 
 > 📜 11 Public Repositories 
  > 
-> 🔑 14 Private Repositories 
+> 🔑 15 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1417 commits        ████████░░░░░░░░░░░░░░░░░   32.01 % 
-🌆 Daytime                1013 commits        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-🌃 Evening                1762 commits        ██████████░░░░░░░░░░░░░░░   39.80 % 
-🌙 Night                  235 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+🌞 Morning                1417 commits        ████████░░░░░░░░░░░░░░░░░   31.99 % 
+🌆 Daytime                1016 commits        ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+🌃 Evening                1762 commits        ██████████░░░░░░░░░░░░░░░   39.77 % 
+🌙 Night                  235 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   378 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Tuesday                  538 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Wednesday                544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Thursday                 972 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Friday                   647 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Saturday                 826 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Sunday                   522 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Monday                   381 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Tuesday                  538 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Wednesday                544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Thursday                 972 commits         █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+Friday                   647 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Saturday                 826 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Sunday                   522 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 ```
 
 
@@ -98,14 +98,15 @@ Sunday                   522 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        10 hrs 7 mins       ████████████████░░░░░░░░░   63.48 % 
-C/C++                    2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Markdown                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Makefile                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-C/C                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+C                        10 hrs 43 mins      █████████████░░░░░░░░░░░░   52.60 % 
+C/C++                    3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Makefile                 2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Markdown                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Python                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 🔥 Editors: 
-CLion                    15 hrs 56 mins      █████████████████████████   100.00 % 
+CLion                    18 hrs 12 mins      ██████████████████████░░░   89.31 % 
+PyCharm                  2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -131,7 +132,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2026 09:59:01 UTC
+ Last Updated on 06/10/2026 09:45:12 UTC
 <!--END_SECTION:waka-->
 
 -------
