@@ -57,7 +57,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -98,17 +98,17 @@ Sunday                   522 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        13 hrs 29 mins      ███████████░░░░░░░░░░░░░░   45.96 % 
-Makefile                 4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-C/C++                    3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Python                   3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Markdown                 1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+C                        11 hrs 9 mins       ███████████░░░░░░░░░░░░░░   42.79 % 
+Makefile                 3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Python                   3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+C/C++                    2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Java                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 
 🔥 Editors: 
-CLion                    22 hrs 34 mins      ███████████████████░░░░░░   76.93 % 
-PyCharm                  4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-IntelliJ IDEA            1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Visual Studio            34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+CLion                    18 hrs 19 mins      ██████████████████░░░░░░░   70.23 % 
+PyCharm                  4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+IntelliJ IDEA            2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Visual Studio            34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -134,7 +134,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 09:22:13 UTC
+ Last Updated on 11/10/2026 09:38:48 UTC
 <!--END_SECTION:waka-->
 
 -------
