@@ -57,7 +57,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -98,17 +98,15 @@ Sunday                   522 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        10 hrs 27 mins      █████████████░░░░░░░░░░░░   51.04 % 
-Java                     3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-C/C++                    2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Makefile                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+C                        8 hrs 47 mins       █████████████░░░░░░░░░░░░   51.74 % 
+Java                     3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+C/C++                    2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Makefile                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+C/C                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-CLion                    15 hrs 28 mins      ███████████████████░░░░░░   75.56 % 
-IntelliJ IDEA            4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Visual Studio            34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-PyCharm                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+CLion                    12 hrs 45 mins      ███████████████████░░░░░░   75.00 % 
+IntelliJ IDEA            4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -134,7 +132,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 08:22:35 UTC
+ Last Updated on 15/10/2026 07:58:57 UTC
 <!--END_SECTION:waka-->
 
 -------
