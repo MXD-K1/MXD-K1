@@ -53,11 +53,11 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-509%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -98,15 +98,15 @@ Sunday                   522 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        8 hrs 39 mins       ████████████████░░░░░░░░░   64.37 % 
-Java                     2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-C/C++                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Makefile                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-C/C                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+C                        10 hrs 47 mins      █████████████████░░░░░░░░   69.76 % 
+C/C++                    1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Java                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Makefile                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+C/C                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-CLion                    10 hrs 46 mins      ████████████████████░░░░░   80.09 % 
-IntelliJ IDEA            2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+CLion                    13 hrs 46 mins      ██████████████████████░░░   89.04 % 
+IntelliJ IDEA            1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -132,7 +132,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 07:29:31 UTC
+ Last Updated on 18/10/2026 07:45:02 UTC
 <!--END_SECTION:waka-->
 
 -------
