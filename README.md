@@ -53,7 +53,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
@@ -98,15 +98,15 @@ Sunday                   522 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        11 hrs 51 mins      ███████████████████░░░░░░   75.06 % 
-C/C++                    2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Makefile                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-C/C                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-lox                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+C                        13 hrs 58 mins      ███████████████████░░░░░░   75.03 % 
+C/C++                    2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Makefile                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+lox                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+C/C                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-CLion                    15 hrs 29 mins      █████████████████████████   98.02 % 
-IntelliJ IDEA            18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+CLion                    18 hrs 18 mins      █████████████████████████   98.32 % 
+IntelliJ IDEA            18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -132,7 +132,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 08:27:16 UTC
+ Last Updated on 20/10/2026 08:10:40 UTC
 <!--END_SECTION:waka-->
 
 -------
