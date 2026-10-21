@@ -98,15 +98,14 @@ Sunday                   522 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        13 hrs 58 mins      ███████████████████░░░░░░   75.03 % 
-C/C++                    2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Makefile                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-lox                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-C/C                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+C                        11 hrs 5 mins       ████████████████████░░░░░   78.21 % 
+C/C++                    1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+lox                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+C/C                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔥 Editors: 
-CLion                    18 hrs 18 mins      █████████████████████████   98.32 % 
-IntelliJ IDEA            18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+CLion                    14 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -132,7 +131,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 08:10:40 UTC
+ Last Updated on 21/10/2026 08:16:19 UTC
 <!--END_SECTION:waka-->
 
 -------
