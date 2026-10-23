@@ -107,6 +107,13 @@ lox                      33 mins             █░░░░░░░░░░�
 🔥 Editors: 
 CLion                    9 hrs 4 mins        █████████████████████░░░░   84.88 % 
 PyCharm                  1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+
+🐱‍💻 Projects: 
+Lox                      8 hrs 5 mins        ███████████████████░░░░░░   75.68 % 
+MXD-K1                   1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+OliNat-Programming-Langua40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+clox                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+GitHub                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -132,7 +139,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 15:03:00 UTC
+ Last Updated on 23/10/2026 15:07:55 UTC
 <!--END_SECTION:waka-->
 
 -------
