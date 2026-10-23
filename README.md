@@ -57,7 +57,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -98,14 +98,15 @@ Sunday                   522 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        9 hrs 24 mins       ███████████████████░░░░░░   76.92 % 
-C/C++                    1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-lox                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-C/C                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+C                        6 hrs 44 mins       ████████████████░░░░░░░░░   62.96 % 
+Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+C/C++                    1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+lox                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🔥 Editors: 
-CLion                    12 hrs 13 mins      █████████████████████████   100.00 % 
+CLion                    9 hrs 4 mins        █████████████████████░░░░   84.88 % 
+PyCharm                  1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -131,7 +132,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 08:17:19 UTC
+ Last Updated on 23/10/2026 08:14:39 UTC
 <!--END_SECTION:waka-->
 
 -------
