@@ -63,7 +63,7 @@ I'm Mohammed Al-shugaa — a beginner developer who’s deeply curious about how
 
 > 📦 218.0 kB Used in GitHub's Storage 
  > 
-> 🏆 321 Contributions in the Year 2026
+> 🏆 322 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -98,22 +98,22 @@ Sunday                   522 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        6 hrs 44 mins       ████████████████░░░░░░░░░   62.96 % 
-Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-C/C++                    1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-lox                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+C                        6 hrs 44 mins       █████████████░░░░░░░░░░░░   50.51 % 
+Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+C/C++                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+YAML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Docker                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 🔥 Editors: 
-CLion                    9 hrs 4 mins        █████████████████████░░░░   84.88 % 
-PyCharm                  1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+CLion                    9 hrs 4 mins        █████████████████░░░░░░░░   68.10 % 
+PyCharm                  4 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.90 % 
 
 🐱‍💻 Projects: 
-Lox                      8 hrs 5 mins        ███████████████████░░░░░░   75.68 % 
-MXD-K1                   1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-OliNat-Programming-Langua40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-clox                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-GitHub                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Lox                      8 hrs 5 mins        ███████████████░░░░░░░░░░   60.72 % 
+waka-readme-stats        2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+MXD-K1                   1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+OliNat-Programming-Langua40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+clox                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -139,7 +139,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 16:34:15 UTC
+ Last Updated on 24/10/2026 05:04:13 UTC
 <!--END_SECTION:waka-->
 
 -------
