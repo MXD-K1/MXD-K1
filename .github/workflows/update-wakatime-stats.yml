@@ -20,5 +20,6 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_AI_CODE_TIME: "False"
+          MAX_REPOS: 50
 
           TARGET_FILE: STATS.md
