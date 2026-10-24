@@ -1,9 +1,9 @@
-name: Waka Readme Stats
+name: Update WakaTime Stats
 
 on:
-  schedule:
-    - cron: '0 3 * * *'  
   workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
 
 jobs:
   update-readme:
@@ -11,9 +11,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: MXD-K1-Forks/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          SHOW_LINES_OF_CODE: "True"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
+          SHOW_AI_CODE_TIME: "False"
+
+          TARGET_FILE: STATS.md

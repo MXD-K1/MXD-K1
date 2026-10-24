@@ -1,8 +1,10 @@
-name: Update Stats
+name: Update GitHub Activity
+
 on:
-  schedule:
-    - cron: "*/30 * * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 5 * * *"
+
 jobs:
   build:
     name: Update this repo's README with recent activity
@@ -12,9 +14,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
-        with:
-          COMMIT_MSG: '⚡ Update activity file with recent GitHub activity by Github Actions.'
+      - uses: MXD-K1-Forks/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+        with:
+          COMMIT_MSG: '⚡ Update activity file with recent GitHub activity by Github Actions.'
+          TARGET_FILE: STATS.md
