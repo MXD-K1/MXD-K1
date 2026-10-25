@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.67%20million%20lines%20of%20code-blue?style=flat)
 
@@ -24,7 +24,7 @@
 
 > 📦 218.0 kB Used in GitHub's Storage 
  > 
-> 🏆 324 Contributions in the Year 2026
+> 🏆 325 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -35,10 +35,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1443 commits        ████████░░░░░░░░░░░░░░░░░   31.14 % 
-🌆 Daytime                1057 commits        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-🌃 Evening                1883 commits        ██████████░░░░░░░░░░░░░░░   40.63 % 
-🌙 Night                  251 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+🌞 Morning                1445 commits        ████████░░░░░░░░░░░░░░░░░   31.17 % 
+🌆 Daytime                1057 commits        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+🌃 Evening                1883 commits        ██████████░░░░░░░░░░░░░░░   40.62 % 
+🌙 Night                  251 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -46,9 +46,9 @@
 Monday                   420 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 Tuesday                  571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
 Wednesday                578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Thursday                 991 commits         █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+Thursday                 991 commits         █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
 Friday                   679 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Saturday                 856 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Saturday                 858 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
 Sunday                   539 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 ```
 
@@ -59,15 +59,15 @@ Sunday                   539 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        6 hrs 44 mins       █████████████░░░░░░░░░░░░   50.51 % 
-Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-C/C++                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-YAML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Docker                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+C                        3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.88 % 
+Markdown                 2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Python                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+YAML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Docker                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 🔥 Editors: 
-CLion                    9 hrs 4 mins        █████████████████░░░░░░░░   68.10 % 
-PyCharm                  4 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.90 % 
+PyCharm                  6 hrs 25 mins       ██████████████░░░░░░░░░░░   54.91 % 
+CLion                    5 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.09 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +93,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 07:18:39 UTC
+ Last Updated on 25/10/2026 11:06:11 UTC
 <!--END_SECTION:waka-->
 
 -----------------------------------
