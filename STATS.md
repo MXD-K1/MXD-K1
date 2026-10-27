@@ -59,15 +59,15 @@ Sunday                   539 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        3 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   31.91 % 
-Markdown                 2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Python                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-YAML                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Docker                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Markdown                 1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+Python                   1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+YAML                     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Docker                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+C                        40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 25 mins       ██████████████░░░░░░░░░░░   56.08 % 
-CLion                    5 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.92 % 
+PyCharm                  6 hrs 25 mins       ██████████████████████░░░   89.58 % 
+CLion                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +93,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 12:39:27 UTC
+ Last Updated on 27/10/2026 11:56:53 UTC
 <!--END_SECTION:waka-->
 
 -----------------------------------
