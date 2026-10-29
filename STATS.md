@@ -14,7 +14,7 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue?style=flat)
 
@@ -59,15 +59,15 @@ Sunday                   539 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Markdown                 1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-Python                   1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-YAML                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Docker                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+C                        3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.52 % 
+Markdown                 1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Python                   1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+YAML                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Docker                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 25 mins       ██████████████████░░░░░░░   71.42 % 
-CLion                    2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+PyCharm                  6 hrs 25 mins       ████████████████░░░░░░░░░   62.73 % 
+CLion                    3 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.27 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +93,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 12:31:52 UTC
+ Last Updated on 29/10/2026 12:42:18 UTC
 <!--END_SECTION:waka-->
 
 -----------------------------------
