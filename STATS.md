@@ -35,21 +35,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1445 commits        ████████░░░░░░░░░░░░░░░░░   31.17 % 
-🌆 Daytime                1057 commits        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-🌃 Evening                1883 commits        ██████████░░░░░░░░░░░░░░░   40.62 % 
+🌞 Morning                1445 commits        ████████░░░░░░░░░░░░░░░░░   31.16 % 
+🌆 Daytime                1057 commits        ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+🌃 Evening                1884 commits        ██████████░░░░░░░░░░░░░░░   40.63 % 
 🌙 Night                  251 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   420 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Tuesday                  571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Wednesday                578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Thursday                 991 commits         █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Friday                   679 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Saturday                 858 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Sunday                   539 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Tuesday                  571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Wednesday                578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Thursday                 992 commits         █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+Friday                   679 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Saturday                 858 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Sunday                   539 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 ```
 
 
@@ -59,15 +59,15 @@ Sunday                   539 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.52 % 
-Markdown                 1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Python                   1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-YAML                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Docker                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+C                        5 hrs 54 mins       ███████████░░░░░░░░░░░░░░   42.58 % 
+Python                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+C/C++                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Makefile                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 25 mins       ████████████████░░░░░░░░░   62.73 % 
-CLion                    3 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.27 % 
+CLion                    9 hrs 3 mins        ████████████████░░░░░░░░░   65.32 % 
+PyCharm                  4 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   34.68 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,10 +80,10 @@ No AI Coding Activity Tracked This Week
 
 ```text
 Python                   12 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
-C                        10 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+C                        11 repos            ████████░░░░░░░░░░░░░░░░░   32.35 % 
 C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
@@ -93,7 +93,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 12:42:18 UTC
+ Last Updated on 30/10/2026 12:33:39 UTC
 <!--END_SECTION:waka-->
 
 -----------------------------------
