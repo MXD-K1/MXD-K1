@@ -14,7 +14,7 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue?style=flat)
 
@@ -59,15 +59,16 @@ Sunday                   539 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        6 hrs 32 mins       ██████████████░░░░░░░░░░░   57.53 % 
-Makefile                 1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-C/C++                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+C                        7 hrs 40 mins       █████████████░░░░░░░░░░░░   51.81 % 
+Makefile                 1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+C/C++                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Python                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🔥 Editors: 
-CLion                    10 hrs 41 mins      ████████████████████████░   94.05 % 
-Visual Studio            40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+CLion                    13 hrs 20 mins      ███████████████████████░░   90.12 % 
+PyCharm                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Visual Studio            40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +94,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 13:00:43 UTC
+ Last Updated on 02/11/2026 15:20:45 UTC
 <!--END_SECTION:waka-->
 
 -----------------------------------
