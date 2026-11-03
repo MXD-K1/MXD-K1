@@ -14,9 +14,9 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-545%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.68%20million%20lines%20of%20code-blue?style=flat)
 
@@ -32,51 +32,6 @@
  > 
 > 🔑 18 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1447 commits        ████████░░░░░░░░░░░░░░░░░   31.19 % 
-🌆 Daytime                1057 commits        ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-🌃 Evening                1884 commits        ██████████░░░░░░░░░░░░░░░   40.61 % 
-🌙 Night                  251 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   420 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Tuesday                  571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Wednesday                578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Thursday                 992 commits         █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Friday                   679 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Saturday                 860 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Sunday                   539 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Aden
-
-💬 Programming Languages: 
-C                        7 hrs 40 mins       █████████████░░░░░░░░░░░░   51.81 % 
-Makefile                 1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-C/C++                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Python                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-
-🔥 Editors: 
-CLion                    13 hrs 20 mins      ███████████████████████░░   90.12 % 
-PyCharm                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Visual Studio            40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -94,7 +49,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2026 15:20:45 UTC
+ Last Updated on 03/11/2026 13:58:52 UTC
 <!--END_SECTION:waka-->
 
 -----------------------------------
