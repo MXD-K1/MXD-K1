@@ -59,16 +59,16 @@ Sunday                   539 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        13 hrs 24 mins      ██████████████░░░░░░░░░░░   57.03 % 
-C/C++                    2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Makefile                 2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-C/C                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Text                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+C                        12 hrs 22 mins      ██████████████░░░░░░░░░░░   55.73 % 
+C/C++                    2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Makefile                 2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+C/C                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Text                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 
 🔥 Editors: 
-CLion                    22 hrs              ███████████████████████░░   93.62 % 
-PyCharm                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Visual Studio            40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+CLion                    20 hrs 42 mins      ███████████████████████░░   93.24 % 
+PyCharm                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Visual Studio            40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
@@ -95,7 +95,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2026 14:08:56 UTC
+ Last Updated on 05/11/2026 14:28:17 UTC
 <!--END_SECTION:waka-->
 
 -----------------------------------
