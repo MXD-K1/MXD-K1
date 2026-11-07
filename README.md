@@ -11,6 +11,7 @@ I'm not an experienced or highly skilled developer yet, but I’m passionate, pe
 
 > [!NOTE]
 > To see my experiments check: [MXD-K1-Forks](https://github.com/MXD-K1-Forks)
+>
 > To see my AI experiments check: [MXD-K1-AI](https://github.com/MXD-K1-AI)
 
 ## 🌟 Stats
