@@ -14,9 +14,9 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%2054%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.68%20million%20lines%20of%20code-blue?style=flat)
 
@@ -59,25 +59,26 @@ Sunday                   540 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        14 hrs 55 mins      ██████████████░░░░░░░░░░░   54.32 % 
-C/C++                    3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Makefile                 2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Other                    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-C/C                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+C                        14 hrs 36 mins      ██████████████░░░░░░░░░░░   54.05 % 
+Makefile                 3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+C/C++                    3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Other                    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+C/C                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 🔥 Editors: 
-CLion                    24 hrs 58 mins      ███████████████████████░░   90.88 % 
-WebStorm                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-PyCharm                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+CLion                    24 hrs 52 mins      ███████████████████████░░   92.03 % 
+WebStorm                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+PyCharm                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 5 mins (18.52%)
+⏱ AI Coding Time: 5 hrs 5 mins (18.83%)
 
-✍️ 1,439 lines written by AI, 5,468 lines written by hand (20.83% AI-written)
+✍️ 1,439 lines written by AI, 1,388 lines written by hand (50.9% AI-written)
 
 🔤 903,832 Input Tokens, 187,686 Output Tokens
 
@@ -88,10 +89,10 @@ IntelliJ IDEA            2 mins              ░░░░░░░░░░░�
 GPT                      1,442 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.83% of written lines came from AI
+⚖️ Balanced with AI — 50.9% of written lines came from AI
 📝 Concise Prompter — average 125 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 79.91% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 53.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -111,7 +112,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2026 13:05:41 UTC
+ Last Updated on 09/11/2026 15:49:15 UTC
 <!--END_SECTION:waka-->
 
 -----------------------------------
