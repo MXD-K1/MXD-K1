@@ -14,15 +14,15 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-570%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.68%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 218.2 kB Used in GitHub's Storage 
+> 📦 218.3 kB Used in GitHub's Storage 
  > 
 > 🏆 334 Contributions in the Year 2026
  > 
@@ -30,26 +30,26 @@
  > 
 > 📜 11 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 20 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1449 commits        ████████░░░░░░░░░░░░░░░░░   31.11 % 
-🌆 Daytime                1064 commits        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-🌃 Evening                1894 commits        ██████████░░░░░░░░░░░░░░░   40.66 % 
-🌙 Night                  251 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+🌞 Morning                1450 commits        ████████░░░░░░░░░░░░░░░░░   31.10 % 
+🌆 Daytime                1067 commits        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+🌃 Evening                1894 commits        ██████████░░░░░░░░░░░░░░░   40.63 % 
+🌙 Night                  251 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   420 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Tuesday                  571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Wednesday                578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Thursday                 996 commits         █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Friday                   680 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Saturday                 873 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Sunday                   540 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Monday                   420 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Tuesday                  575 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Wednesday                578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Thursday                 996 commits         █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Friday                   680 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Saturday                 873 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Sunday                   540 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 ```
 
 
@@ -59,26 +59,25 @@ Sunday                   540 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        14 hrs 36 mins      ██████████████░░░░░░░░░░░   54.05 % 
-Makefile                 3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-C/C++                    3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Other                    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-C/C                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+C                        14 hrs 46 mins      ██████████████░░░░░░░░░░░   55.29 % 
+C/C++                    3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Makefile                 3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Other                    1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+GitIgnore file           1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-CLion                    24 hrs 52 mins      ███████████████████████░░   92.03 % 
-WebStorm                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-PyCharm                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+CLion                    24 hrs 37 mins      ███████████████████████░░   92.09 % 
+WebStorm                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+PyCharm                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 5 mins (18.83%)
+⏱ AI Coding Time: 5 hrs 5 mins (19.04%)
 
-✍️ 1,439 lines written by AI, 1,388 lines written by hand (50.9% AI-written)
+✍️ 1,439 lines written by AI, 1,651 lines written by hand (46.57% AI-written)
 
 🔤 903,832 Input Tokens, 187,686 Output Tokens
 
@@ -89,20 +88,20 @@ IntelliJ IDEA            2 mins              ░░░░░░░░░░░�
 GPT                      1,442 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.9% of written lines came from AI
+⚖️ Balanced with AI — 46.57% of written lines came from AI
 📝 Concise Prompter — average 125 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 53.69% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 57.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
 
 ```text
-C                        12 repos            █████████░░░░░░░░░░░░░░░░   34.29 % 
-Python                   12 repos            █████████░░░░░░░░░░░░░░░░   34.29 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+C                        13 repos            █████████░░░░░░░░░░░░░░░░   36.11 % 
+Python                   12 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
@@ -112,7 +111,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2026 15:49:15 UTC
+ Last Updated on 10/11/2026 14:42:35 UTC
 <!--END_SECTION:waka-->
 
 -----------------------------------
