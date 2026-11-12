@@ -14,9 +14,9 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.68%20million%20lines%20of%20code-blue?style=flat)
 
@@ -59,39 +59,39 @@ Sunday                   540 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        13 hrs 33 mins      █████████████░░░░░░░░░░░░   52.27 % 
-C/C++                    4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Makefile                 3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Other                    1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-GitIgnore file           1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+C                        13 hrs 47 mins      █████████████░░░░░░░░░░░░   52.88 % 
+C/C++                    4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Makefile                 3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Other                    1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+GitIgnore file           1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 Editors: 
-CLion                    23 hrs 48 mins      ███████████████████████░░   91.84 % 
-WebStorm                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-PyCharm                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+CLion                    24 hrs 3 mins       ███████████████████████░░   92.27 % 
+WebStorm                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 5 mins (19.63%)
+⏱ AI Coding Time: 4 hrs 59 mins (19.14%)
 
-✍️ 1,439 lines written by AI, 1,552 lines written by hand (48.11% AI-written)
+✍️ 1,439 lines written by AI, 1,553 lines written by hand (48.09% AI-written)
 
-🔤 903,832 Input Tokens, 187,686 Output Tokens
+🔤 880,655 Input Tokens, 186,024 Output Tokens
 
-💵 $1.23 Estimated AI Cost This Week
+💵 $1.22 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 120 AI Prompts
+🧠 7 AI Sessions, 112 AI Prompts
 
 GPT                      1,442 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 48.11% of written lines came from AI
-📝 Concise Prompter — average 125 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 56.17% of changed lines were hand-edited
+⚖️ Balanced with AI — 48.09% of written lines came from AI
+📝 Concise Prompter — average 130 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🔍 Hands-On Reviewer — 56.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
@@ -111,7 +111,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 11/11/2026 13:57:22 UTC
+ Last Updated on 12/11/2026 14:58:25 UTC
 <!--END_SECTION:waka-->
 
 -----------------------------------
