@@ -14,7 +14,7 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
@@ -59,39 +59,20 @@ Sunday                   540 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        11 hrs 55 mins      ███████████████░░░░░░░░░░   59.06 % 
-C/C++                    3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Makefile                 2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-C/C                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+C                        12 hrs 46 mins      ████████████████░░░░░░░░░   62.23 % 
+C/C++                    4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Makefile                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+C/C                      1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-CLion                    19 hrs 48 mins      █████████████████████████   98.04 % 
-WebStorm                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+CLion                    20 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (1.73%)
-
-✍️ 0 lines written by AI, 1,385 lines written by hand (0.0% AI-written)
-
-🔤 17,825 Input Tokens, 3,307 Output Tokens
-
-💵 $0.02 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 9 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 76 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -111,7 +92,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2026 13:47:50 UTC
+ Last Updated on 16/11/2026 15:24:52 UTC
 <!--END_SECTION:waka-->
 
 -----------------------------------
