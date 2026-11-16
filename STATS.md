@@ -9,8 +9,8 @@
 -----------------------------------
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MXD-K1/MXD-K1/pull/1) in [MXD-K1/MXD-K1](https://github.com/MXD-K1/MXD-K1)
-2. 💪 Opened PR [#1](https://github.com/MXD-K1/MXD-K1/pull/1) in [MXD-K1/MXD-K1](https://github.com/MXD-K1/MXD-K1)
+1. 🗣 Commented on [#128](https://github.com/antirez/kilo/pull/128#issuecomment-6896103688) in [antirez/kilo](https://github.com/antirez/kilo)
+2. ❌ Closed PR [#1](https://github.com/MXD-K1/MXD-K1/pull/1) in [MXD-K1/MXD-K1](https://github.com/MXD-K1/MXD-K1)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
