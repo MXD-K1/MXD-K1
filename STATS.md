@@ -14,7 +14,7 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-588%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-591%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
@@ -59,14 +59,14 @@ Sunday                   540 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        8 hrs 30 mins       ███████████████░░░░░░░░░░   61.62 % 
-C/C++                    2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Makefile                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-C/C                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+C                        10 hrs 51 mins      ████████████████░░░░░░░░░   63.21 % 
+C/C++                    2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Makefile                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+C/C                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🔥 Editors: 
-CLion                    13 hrs 48 mins      █████████████████████████   100.00 % 
+CLion                    17 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -92,7 +92,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2026 15:29:36 UTC
+ Last Updated on 19/11/2026 15:34:11 UTC
 <!--END_SECTION:waka-->
 
 -----------------------------------
