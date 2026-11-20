@@ -14,7 +14,7 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-591%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
@@ -35,9 +35,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1454 commits        ████████░░░░░░░░░░░░░░░░░   31.13 % 
-🌆 Daytime                1069 commits        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-🌃 Evening                1897 commits        ██████████░░░░░░░░░░░░░░░   40.61 % 
+🌞 Morning                1454 commits        ████████░░░░░░░░░░░░░░░░░   31.12 % 
+🌆 Daytime                1069 commits        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+🌃 Evening                1898 commits        ██████████░░░░░░░░░░░░░░░   40.62 % 
 🌙 Night                  251 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -45,8 +45,8 @@
 ```text
 Monday                   419 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 Tuesday                  577 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Wednesday                579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Thursday                 999 commits         █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+Wednesday                579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Thursday                 1000 commits        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
 Friday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
 Saturday                 875 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
 Sunday                   540 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
@@ -59,14 +59,14 @@ Sunday                   540 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Aden
 
 💬 Programming Languages: 
-C                        10 hrs 51 mins      ████████████████░░░░░░░░░   63.21 % 
-C/C++                    2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Makefile                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-C/C                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+C                        12 hrs 23 mins      █████████████████░░░░░░░░   67.73 % 
+C/C++                    2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Makefile                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+C/C                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
-CLion                    17 hrs 11 mins      █████████████████████████   100.00 % 
+CLion                    18 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -92,7 +92,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MXD-K1/MXD-K1/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2026 15:34:11 UTC
+ Last Updated on 20/11/2026 15:12:46 UTC
 <!--END_SECTION:waka-->
 
 -----------------------------------
